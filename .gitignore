@@ -1,0 +1,12 @@
+# macOS specific files
+.DS_Store
+
+# Python files
+*.ipynb
+__pycache__/
+
+# Ignore the 'subfolder' directory
+master_copy/
+data/
+custom_dataloader
+chap1617_AE_VAE/

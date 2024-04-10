@@ -1,0 +1,68 @@
+PyTorch version: 2.2.0
+Using cpu
+PyTorch version: 2.2.0
+Using cpu
+PyTorch version: 2.2.0
+Using cpu
+PyTorch version: 2.2.0
+Using cpu
+Epoch: 001/010 | Batch 0000/0422 | Loss: 2.3631
+Epoch: 001/010 | Batch 0050/0422 | Loss: 1.5079
+Epoch: 001/010 | Batch 0100/0422 | Loss: 0.9598
+Epoch: 001/010 | Batch 0150/0422 | Loss: 0.6887
+Epoch: 001/010 | Batch 0200/0422 | Loss: 0.5036
+Epoch: 001/010 | Batch 0250/0422 | Loss: 0.5130
+Epoch: 001/010 | Batch 0300/0422 | Loss: 0.4014
+Epoch: 001/010 | Batch 0350/0422 | Loss: 0.4999
+Epoch: 001/010 | Batch 0400/0422 | Loss: 0.4148
+Epoch: 001/010 | Train: 90.36% | Validation: 92.77%
+Time elapsed: 0.13 min
+Epoch: 002/010 | Batch 0000/0422 | Loss: 0.3098
+Epoch: 002/010 | Batch 0050/0422 | Loss: 0.3217
+Epoch: 002/010 | Batch 0100/0422 | Loss: 0.2718
+Epoch: 002/010 | Batch 0150/0422 | Loss: 0.3145
+Epoch: 002/010 | Batch 0200/0422 | Loss: 0.2559
+Epoch: 002/010 | Batch 0250/0422 | Loss: 0.3348
+Epoch: 002/010 | Batch 0300/0422 | Loss: 0.2513
+Epoch: 002/010 | Batch 0350/0422 | Loss: 0.3702
+Epoch: 002/010 | Batch 0400/0422 | Loss: 0.2823
+Epoch: 002/010 | Train: 92.53% | Validation: 94.12%
+Time elapsed: 0.25 min
+Epoch: 003/010 | Batch 0000/0422 | Loss: 0.2131
+Epoch: 003/010 | Batch 0050/0422 | Loss: 0.2457
+Epoch: 003/010 | Batch 0100/0422 | Loss: 0.1880
+Epoch: 003/010 | Batch 0150/0422 | Loss: 0.2307
+Epoch: 003/010 | Batch 0200/0422 | Loss: 0.2131
+Epoch: 003/010 | Batch 0250/0422 | Loss: 0.2825
+Epoch: 003/010 | Batch 0300/0422 | Loss: 0.2003
+Epoch: 003/010 | Batch 0350/0422 | Loss: 0.3157
+Epoch: 003/010 | Batch 0400/0422 | Loss: 0.2221
+PyTorch version: 2.2.0
+Using cpu
+PyTorch version: 2.2.0
+Using cpu
+PyTorch version: 2.2.0
+Using cpu
+PyTorch version: 2.2.0
+Using cpu
+PyTorch version: 2.2.0
+Using cpu
+PyTorch version: 2.2.0
+Using cpu
+Epoch: 001/010 | Batch 0000/0422 | Loss: 2.3678
+Epoch: 001/010 | Batch 0050/0422 | Loss: 1.6370
+Epoch: 001/010 | Batch 0100/0422 | Loss: 1.2836
+Epoch: 001/010 | Batch 0150/0422 | Loss: 1.1231
+Epoch: 001/010 | Batch 0200/0422 | Loss: 0.8427
+Epoch: 001/010 | Batch 0250/0422 | Loss: 1.0462
+Epoch: 001/010 | Batch 0300/0422 | Loss: 1.0269
+Epoch: 001/010 | Batch 0350/0422 | Loss: 1.0925
+Epoch: 001/010 | Batch 0400/0422 | Loss: 1.0450
+Epoch: 001/010 | Train: 71.91% | Validation: 90.50%
+Time elapsed: 0.53 min
+Epoch: 002/010 | Batch 0000/0422 | Loss: 0.7832
+Epoch: 002/010 | Batch 0050/0422 | Loss: 0.8631
+Epoch: 002/010 | Batch 0100/0422 | Loss: 0.8323
+Epoch: 002/010 | Batch 0150/0422 | Loss: 0.7667
+Epoch: 002/010 | Batch 0200/0422 | Loss: 0.6618
+Epoch: 002/010 | Batch 0250/0422 | Loss: 0.8628
