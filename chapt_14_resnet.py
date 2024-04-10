@@ -86,8 +86,9 @@ class ConvNet(torch.nn.Module):
         )
        # fully connected 
         self.linear_1 =  torch.nn.Linear(1*28*28, num_classes)
-       
-
-
+    
+    def forward(self,x ) :
+        shortcut 
+        
 
 print('done')
